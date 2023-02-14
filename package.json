@@ -23,9 +23,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "SuperDark",
+        "label": "DarkerBlack",
         "uiTheme": "vs-dark",
-        "path": "./themes/SuperDark-color-theme.json"
+        "path": "./themes/DarkerBlack-color-theme.json"
       }
     ]
   }
