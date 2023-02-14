@@ -1,0 +1,27 @@
+{
+  "name": "superdark",
+  "displayName": "SuperDark",
+  "description": "Super dark theme for vs code",
+  "version": "0.0.1",
+  "pricing": "Free",
+  "publisher": "Satnam Singh",
+  "author": {
+    "name": "Satnam Singh",
+    "email": "satnamgills@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SuperDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SuperDark-color-theme.json"
+      }
+    ]
+  }
+}
