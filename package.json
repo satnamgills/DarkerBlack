@@ -1,14 +1,19 @@
 {
-  "name": "superdark",
-  "displayName": "SuperDark",
-  "description": "Super dark theme for vs code",
+  "name": "darkerblack",
+  "displayName": "DarkerBlack",
+  "description": "Beautiful dark theme for vs code",
   "version": "0.0.1",
   "pricing": "Free",
-  "publisher": "Satnam Singh",
+  "publisher": "satnamgills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satnamgills/darkerblack"
+  },
   "author": {
     "name": "Satnam Singh",
     "email": "satnamgills@gmail.com"
   },
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.75.0"
   },
