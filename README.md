@@ -1,6 +1,10 @@
 # DarkerBlack VSCode Theme by Satnam Singh
 DarkerBlack is a Visual Studio Code theme designed to provide a sleek, modern and easy-to-read coding experience. It features a darker background with high-contrast syntax highlighting, making it suitable for long coding sessions.
 
+## Preview
+![Screenshot of DarkerBlack theme](images/screenshot.png)
+
+
 ## Installation
 To install the DarkerBlack theme, follow these steps:
 
