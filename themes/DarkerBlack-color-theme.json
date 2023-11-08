@@ -7,7 +7,7 @@
 			"foreground": "#26a8b8"
 		},
 		"variable.constant": {
-			"foreground": "#ff7c00"
+			"foreground": "#ffac5e"
 		},
 		"variable.defaultLibrary": {
 			"foreground": "#ffa600"
@@ -18,14 +18,14 @@
 			"name": "unison punctuation",
 			"scope": "punctuation.definition.delayed.unison,punctuation.definition.list.begin.unison,punctuation.definition.list.end.unison,punctuation.definition.ability.begin.unison,punctuation.definition.ability.end.unison,punctuation.operator.assignment.as.unison,punctuation.separator.pipe.unison,punctuation.separator.delimiter.unison,punctuation.definition.hash.unison",
 			"settings": {
-				"foreground": "#09cf44"
+				"foreground": "#00ff4c"
 			}
 		},
 		{
 			"name": "haskell variable generic-type",
 			"scope": "variable.other.generic-type.haskell",
 			"settings": {
-				"foreground": "#c526ff"
+				"foreground": "#cc47fd"
 			}
 		},
 		{
@@ -1940,8 +1940,6 @@
 		"editor.lineHighlightBorder": "#121212",
 		"editorLineNumber.activeForeground": "#c6c6c6",
 		"editorLink.activeForeground": "#0004ff",
-		"editorIndentGuide.background": "#171717",
-		"editorIndentGuide.activeBackground": "#3b3b3b",
 		"editorRuler.foreground": "#0d0d0d",
 		"editorBracketMatch.background": "#0064001a",
 		"editorBracketMatch.border": "#888888",

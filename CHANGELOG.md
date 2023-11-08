@@ -2,6 +2,9 @@
 
 All notable changes to the "DarkerBlack" extension will be documented in this file.
 
+## 0.2.0
+- Improved text contrast
+
 ## 0.1.3
 - Background color of some elements and editor text selection changed for more visibility of content.
 
