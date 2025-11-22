@@ -1,0 +1,175 @@
+{
+	"name": "DarkerWhite",
+	"type": "light",
+	"semanticHighlighting": true,
+	"colors": {
+		"editor.background": "#FFFFFF",
+		"editor.foreground": "#202020",
+		"editorCursor.foreground": "#000000",
+		"editor.lineHighlightBackground": "#F0F0F0",
+		"editor.selectionBackground": "#ADD6FF",
+		"editor.inactiveSelectionBackground": "#E5EBF1",
+		"editorWhitespace.foreground": "#E0E0E0",
+		"editorIndentGuide.background": "#E0E0E0",
+		"editorIndentGuide.activeBackground": "#B0B0B0",
+		"editorLineNumber.foreground": "#A0A0A0",
+		"editorLineNumber.activeForeground": "#202020",
+		"activityBar.background": "#F8F8F8",
+		"activityBar.foreground": "#202020",
+		"activityBar.border": "#E0E0E0",
+		"sideBar.background": "#F8F8F8",
+		"sideBar.foreground": "#404040",
+		"sideBar.border": "#E0E0E0",
+		"sideBarTitle.foreground": "#202020",
+		"sideBarSectionHeader.background": "#F0F0F0",
+		"sideBarSectionHeader.foreground": "#202020",
+		"statusBar.background": "#007ACC",
+		"statusBar.foreground": "#FFFFFF",
+		"statusBar.border": "#007ACC",
+		"statusBar.debuggingBackground": "#CC3300",
+		"titleBar.activeBackground": "#FFFFFF",
+		"titleBar.activeForeground": "#202020",
+		"titleBar.inactiveBackground": "#FFFFFF",
+		"titleBar.inactiveForeground": "#888888",
+		"titleBar.border": "#E0E0E0",
+		"tab.activeBackground": "#FFFFFF",
+		"tab.activeForeground": "#007ACC",
+		"tab.activeBorderTop": "#007ACC",
+		"tab.inactiveBackground": "#F8F8F8",
+		"tab.inactiveForeground": "#666666",
+		"tab.border": "#E0E0E0",
+		"list.activeSelectionBackground": "#007ACC",
+		"list.activeSelectionForeground": "#FFFFFF",
+		"list.hoverBackground": "#E8E8E8",
+		"list.hoverForeground": "#202020",
+		"terminal.background": "#FFFFFF",
+		"terminal.foreground": "#202020",
+		"widget.shadow": "#00000020",
+		"focusBorder": "#007ACC"
+	},
+	"tokenColors": [
+		{
+			"scope": ["comment", "punctuation.definition.comment"],
+			"settings": {
+				"foreground": "#008000",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": ["variable", "string constant.other.placeholder"],
+			"settings": {
+				"foreground": "#202020"
+			}
+		},
+		{
+			"scope": ["constant.other.color"],
+			"settings": {
+				"foreground": "#0451A5"
+			}
+		},
+		{
+			"scope": ["invalid", "invalid.illegal"],
+			"settings": {
+				"foreground": "#CD3131"
+			}
+		},
+		{
+			"scope": ["keyword", "storage.type", "storage.modifier"],
+			"settings": {
+				"foreground": "#AF00DB"
+			}
+		},
+		{
+			"scope": ["keyword.control"],
+			"settings": {
+				"foreground": "#AF00DB",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": ["keyword.operator", "punctuation"],
+			"settings": {
+				"foreground": "#0451A5"
+			}
+		},
+		{
+			"scope": ["function", "support.function", "entity.name.function"],
+			"settings": {
+				"foreground": "#0000FF"
+			}
+		},
+		{
+			"scope": ["entity.name.type", "entity.name.class", "support.class", "support.type"],
+			"settings": {
+				"foreground": "#267F99"
+			}
+		},
+		{
+			"scope": ["string"],
+			"settings": {
+				"foreground": "#A31515"
+			}
+		},
+		{
+			"scope": ["constant.numeric", "constant.language", "constant.character", "constant.escape"],
+			"settings": {
+				"foreground": "#098658"
+			}
+		},
+		{
+			"scope": ["variable.parameter"],
+			"settings": {
+				"foreground": "#795E26"
+			}
+		},
+		{
+			"scope": ["entity.name.tag"],
+			"settings": {
+				"foreground": "#800000"
+			}
+		},
+		{
+			"scope": ["entity.other.attribute-name"],
+			"settings": {
+				"foreground": "#FF0000"
+			}
+		},
+		{
+			"scope": ["markup.heading"],
+			"settings": {
+				"foreground": "#000080",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": ["markup.bold"],
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": ["markup.italic"],
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": ["markup.inserted"],
+			"settings": {
+				"foreground": "#098658"
+			}
+		},
+		{
+			"scope": ["markup.deleted"],
+			"settings": {
+				"foreground": "#A31515"
+			}
+		},
+		{
+			"scope": ["markup.changed"],
+			"settings": {
+				"foreground": "#0451A5"
+			}
+		}
+	]
+}
