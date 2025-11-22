@@ -2,6 +2,13 @@
 
 All notable changes to the "DarkerBlack" extension will be documented in this file.
 
+## 0.3.0
+- Added multiple vibrant color schemes:
+  - **DarkerBlack Vibrant**: Updated primary dark theme with full black background and neon accents.
+  - **DarkerBlack Cool Blue**: New dark theme variant with cool blue and purple accents.
+  - **DarkerWhite**: New light theme variant for high readability.
+- Refactored syntax highlighting configuration for better maintainability.
+
 ## 0.2.0
 - Improved text contrast
 
