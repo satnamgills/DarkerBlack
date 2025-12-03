@@ -2,7 +2,7 @@
   "name": "darkerblack",
   "displayName": "DarkerBlack",
   "description": "Beautiful dark theme for vs code",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "pricing": "Free",
   "publisher": "satnamgills",
   "repository": {
@@ -20,6 +20,9 @@
   "categories": [
     "Themes"
   ],
+  "scripts": {
+    "deploy": "vsce publish --yarn"
+  },
   "contributes": {
     "themes": [
       {
@@ -34,9 +37,12 @@
       },
       {
         "label": "DarkerWhite",
-        "uiTheme": "vs-light",
+        "uiTheme": "vs",
         "path": "./themes/DarkerWhite-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.7.1"
   }
 }
